@@ -4,7 +4,7 @@ Turns the expert labels of the ACDC training set (short-axis cine CMR, end-diast
 
 * surface meshes of the left ventricle (`LV.stl`), myocardium (`MYO.stl`) and right ventricle (`RV.stl`),
 * a fused mesh (`full_heart.obj`) with a vertex-range map per structure (`region_map.json`),
-* a **simplified parametric mitral valve surface** (`mitral_valve.obj`, 961 vertices, 1,920 triangles),
+* a **simplified parametric mitral valve surface** (`mitral_valve.obj`, 961 vertices, 1,800 triangles),
 * cardiac metrics (EDV, ESV, EF, annulus geometry, wall-thickness estimate) in `metrics.json`.
 
 The valve surface is a geometric approximation built from the LV mesh alone (planar annulus ellipse, fixed 4 mm
