@@ -1,0 +1,12 @@
+{
+  "cpu": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+  "logical_cores": 28,
+  "ram_gb": 15.7,
+  "os": "Windows-11-10.0.26200-SP0",
+  "python": "3.13.9",
+  "numpy": "2.5.3",
+  "scipy": "1.18.1",
+  "scikit_image": "0.26.0",
+  "trimesh": "5.1.1",
+  "scikit_learn": "1.9.1"
+}
